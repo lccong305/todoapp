@@ -10,7 +10,7 @@ const Home = () => {
           <div className="flex items-center justify-center gap-x-5">
             <div className="w-[200px] h-[200px] ">
               <img
-                src="https://images.unsplash.com/photo-1618042164219-62c820f10723?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+                src="./profile1.jpg"
                 className="object-cover w-full h-full rounded-full"
                 alt=""
               />
@@ -26,18 +26,26 @@ const Home = () => {
               </div>
               <div className="flex items-center gap-x-2">
                 <span className="inline-block text-2xl font-extralight">
-                  Khóa học:
-                </span>
-                <span className="inline-block text-2xl font-extralight">
-                  K45 CNTT.A
-                </span>
-              </div>
-              <div className="flex items-center gap-x-2">
-                <span className="inline-block text-2xl font-extralight">
                   MSSV:
                 </span>
                 <span className="inline-block text-2xl font-extralight">
                   4501104031
+                </span>
+              </div>
+              <div className="flex items-center gap-x-2">
+                <span className="inline-block text-2xl font-extralight">
+                  Email:
+                </span>
+                <span className="inline-block text-2xl font-extralight">
+                  conglc530@gmail.com
+                </span>
+              </div>
+              <div className="flex items-center gap-x-2">
+                <span className="inline-block text-2xl font-extralight">
+                  Khóa học:
+                </span>
+                <span className="inline-block text-2xl font-extralight">
+                  K45 CNTT.A
                 </span>
               </div>
             </div>
